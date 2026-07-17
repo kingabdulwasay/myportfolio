@@ -3,6 +3,12 @@
 
 Create portfolio website with React JS.
 
+## Live Link
+https://abdulwasayrais.netlify.app/
+
+## Descrption
+This website is built using Vite for fast development and optimized builds, and is structured into reusable components for better maintainability and scalability.
+
 ## Setup
 
 1. Install dependencies:
@@ -13,6 +19,4 @@ Create portfolio website with React JS.
    ```bash
    npm start
    ```
-=======
-# myportfolio
->>>>>>> 843962b8e8306d316adbdbba720faae9413cf64e
+
