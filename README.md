@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Task 1 - React
 
 Converted static portfolio site to a React app.
@@ -12,3 +13,6 @@ Converted static portfolio site to a React app.
    ```bash
    npm start
    ```
+=======
+# myportfolio
+>>>>>>> 843962b8e8306d316adbdbba720faae9413cf64e
