@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# Portfolio Task 1 - React
 
-Converted static portfolio site to a React app.
+# Portfolio Website
+
+Create portfolio website with React JS.
 
 ## Setup
 
