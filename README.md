@@ -19,4 +19,8 @@ This website is built using Vite for fast development and optimized builds, and 
    ```bash
    npm start
    ```
+3. Build for production:
+   ```bash
+   npm run build
+   ```
 
